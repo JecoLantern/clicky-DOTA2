@@ -6,57 +6,57 @@
     },
     {
         "id": 2,
-        "image": "assets/img/axe.png",
+        "image": "assets/img/dragonknight.png",
         "clicked": false
     },
     {
         "id": 3,
-        "image": "assets/img/axe.png",
+        "image": "assets/img/drowranger.png",
         "clicked": false
     },
     {
         "id": 4,
-        "image": "assets/img/axe.png",
+        "image": "assets/img/invoker.png",
         "clicked": false
     },
     {
         "id": 5,
-        "image": "assets/img/axe.png",
+        "image": "assets/img/juggernaut.png",
         "clicked": false
     },
     {
         "id": 6,
-        "image": "assets/img/axe.png",
+        "image": "assets/img/lina.png",
         "clicked": false
     },
     {
         "id": 7,
-        "image": "assets/img/axe.png",
+        "image": "assets/img/lycantrop.png",
         "clicked": false
     },
     {
         "id": 8,
-        "image": "assets/img/axe.png",
+        "image": "assets/img/phantomassassin.png",
         "clicked": false
     },
     {
         "id": 9,
-        "image": "assets/img/axe.png",
+        "image": "assets/img/lightningrevenant.png",
         "clicked": false
     },
     {
         "id": 10,
-        "image": "assets/img/axe.png",
+        "image": "assets/img/shadowfiend.png",
         "clicked": false
     },
     {
         "id": 11,
-        "image": "assets/img/axe.png",
+        "image": "assets/img/templarassassin.png",
         "clicked": false
     },
     {
         "id": 12,
-        "image": "assets/img/axe.png",
+        "image": "assets/img/terrorblade.png",
         "clicked": false
     },
 ]
