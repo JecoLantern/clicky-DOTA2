@@ -59,34 +59,34 @@ img {
 @media only screen and (max-width: 1845px) {
     .card {
         width: 200px;
-        height: 200px;
+        height: 114px;
     }
 }
 
 @media only screen and (max-width: 857px) {
     .card {
         width: 150px;
-        height: 150px;
+        height: 86px;
     }
 }
 
 @media only screen and (max-width: 657px) {
     .card {
         width: 125px;
-        height: 125px;
+        height: 72px;
     }
 }
 
 @media only screen and (max-width: 439px) {
     .card {
         width: 100px;
-        height: 100px;
+        height: 58px;
     }
 }
 
 @media only screen and (max-width: 349px) {
     .card {
         width: 75px;
-        height: 75px;
+        height: 44px;
     }
 }

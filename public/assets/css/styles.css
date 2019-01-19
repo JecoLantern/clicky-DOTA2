@@ -53,7 +53,7 @@ h1 {
 
 @media only screen and (max-width: 420px) {
     .navTitle {
-        font-size: 30px;
+        font-size: 28px;
     }
 
     #score,
@@ -75,6 +75,6 @@ h1 {
 
 @media only screen and (max-width: 349px) {
     .navTitle {
-        font-size: 26px;
+        font-size: 25px;
     }
 }
