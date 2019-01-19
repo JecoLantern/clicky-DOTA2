@@ -56,7 +56,14 @@ img {
     right: 0;
 }
 
-@media only screen and (max-width: 1845px) {
+@media only screen and (max-width: 1680px) {
+    .card {
+        width: 26%;
+        height: 186px;
+    }
+}
+
+@media only screen and (max-width: 1440px) {
     .card {
         width: 200px;
         height: 114px;
