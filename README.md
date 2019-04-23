@@ -1,3 +1,11 @@
+# Clicky App featuring DOTA 2 Characters
+
+The app is a memory game built using React.js. The objective of the app is to break the UI into components, manage component state and respond to user events.
+
+## Deployed Link
+https://clicky-game-dota2-jba.herokuapp.com/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
